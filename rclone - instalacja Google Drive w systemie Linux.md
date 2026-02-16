@@ -1,6 +1,6 @@
 **rclone** to absolutnie najlepsze narzędzie typu open-source do zarządzania chmurami z poziomu terminala (Google Drive, One Drive, DropBox itp.) 
 
-Poniżej znajdziesz kompletną instrukcję – od instalacji po automatyczne montowanie dysku Google jako lokalnego folderu w systemie Na CachyOS (który bazuje na Arch Linux).
+Poniżej znajdziesz kompletną instrukcję – od instalacji po automatyczne montowanie dysku Google jako lokalnego folderu w systemie CachyOS (który bazuje na Arch Linux).
 
 ---
 
