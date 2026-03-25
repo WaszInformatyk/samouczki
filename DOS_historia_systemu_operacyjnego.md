@@ -45,6 +45,5 @@ Oto najbardziej wiarygodne i szczegółowe materiały, które znalazłem w inter
 - Lunduke Substack: „Quick and Dirty: The story of 86-DOS & MS-DOS” – bardzo szczegółowa analiza techniczna.
 [https://lunduke.substack.com/p/quick-and-dirty-the-story-of-86-dos](https://lunduke.substack.com/p/quick-and-dirty-the-story-of-86-dos)
 
-Polskojęzycznych artykułów naukowych czy encyklopedycznych o tej konkretnej historii jest mało (temat jest głównie omawiany w anglojęzycznych źródłach), ale powyższe strony możesz łatwo przetłumaczyć w przeglądarce (Chrome/Firefox). Jeśli chcesz głębsze szczegóły z konkretnej strony (np. pełny tekst artykułu PCMag), daj znać – mogę go przeanalizować dokładniej.
-
-To klasyczna historia „szczęścia + dobrego wyczucia biznesu” Gatesa i Allena, która zmieniła cały rynek komputerów osobistych. Chcesz linki do oryginalnych skanów starych kontraktów albo emulatora 86-DOS do zabawy?
+Polskojęzycznych artykułów naukowych czy encyklopedycznych o tej konkretnej historii jest mało (temat jest głównie omawiany w anglojęzycznych źródłach), ale powyższe strony możesz łatwo przetłumaczyć w przeglądarce (Chrome/Firefox). 
+To klasyczna historia „szczęścia + dobrego wyczucia biznesu” Gatesa i Allena, która zmieniła cały rynek komputerów osobistych.
