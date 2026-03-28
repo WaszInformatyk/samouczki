@@ -1,0 +1,14 @@
+Plan kont* (aa.fk_pcg_version),Konto księgowe* (aa.account_number),Nazwa* (aa.label),Nadrzędne konto (aa.account_parent),Grupa konta* (aa.pcg_type),Stan* (aa.active),Data utworzenia (aa.datec)
+PL-KPIR-2026,K09,Kol. 9: Przychód ze sprzedaży,,PROD,1,2026-03-02
+PL-KPIR-2026,K10,Kol. 10: Pozostałe przychody,,PROD,1,2026-03-02
+PL-KPIR-2026,K12,Kol. 12: Zakup towarów i materiałów,,EXPENSE,1,2026-03-02
+PL-KPIR-2026,K13,Kol. 13: Koszty uboczne zakupu,,EXPENSE,1,2026-03-02
+PL-KPIR-2026,K14,Kol. 14: Wynagrodzenia,,EXPENSE,1,2026-03-02
+PL-KPIR-2026,K15,Kol. 15: Pozostałe wydatki,,EXPENSE,1,2026-03-02
+PL-KPIR-2026,K18,Kol. 18: Koszty badawczo-rozwojowe,,EXPENSE,1,2026-03-02
+PL-KPIR-2026,201,Rozrachunki z dostawcami (Techniczne),,LIAB,1,2026-03-02
+PL-KPIR-2026,202,Rozrachunki z odbiorcami (Techniczne),,ASSET,1,2026-03-02
+PL-KPIR-2026,221,VAT Należny (jeśli dotyczy),,LIAB,1,2026-03-02
+PL-KPIR-2026,222,VAT Naliczony (jeśli dotyczy),,ASSET,1,2026-03-02
+PL-KPIR-2026,101,Kasa,,ASSET,1,2026-03-02
+PL-KPIR-2026,131,Rachunek bankowy,,ASSET,1,2026-03-02
