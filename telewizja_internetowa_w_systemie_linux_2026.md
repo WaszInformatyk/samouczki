@@ -21,6 +21,6 @@ Poniższa tabela przedstawia kompatybilność popularnych serwisów VOD i telewi
 | **[Netflix](https://www.netflix.com)** | Tak | **Nie** | **Domyślnie odtwarza w 720p. Do uzyskania 1080p wymagane jest użycie wtyczki do przeglądarki (np. *Netflix 1080p*).** |
 | **[Prime Video](https://www.primevideo.com)** | Tak | **Nie** | **Działa, ale domyślnie może ograniczać jakość do SD (480p) lub HD (720p) z powodu zabezpieczeń DRM.** |
 | **[Disney+](https://www.disneyplus.com)** | Tak | **Nie** | Działa poprawnie, lecz rozdzielczość jest ograniczona do 720p/1080p ze względu na wymagania Widevine L1 dla 4K. |
-| **[SkyShowtime](https://www.skyshowtime.com)** | Tak | **Nie** | Działa poprawnie, jednak najwyższa jakość (4K) jest zarezerwowana wyłącznie dla certyfikowanych urządzeń Smart TV. |
+| **[SkyShowtime](https://www.skyshowtime.com)** | **Nie** | **Nie** | **Jak informują widzowie - nie działa w systemie Linux.** |
 | **[TV Apple (Apple TV+)](https://tv.apple.com)** | Tak | **Nie** | **Działa w przeglądarce, ale jakość obrazu na systemach innych niż macOS/Apple TV bywa obniżona (720p/1080p).** |
 | **[YouTube](https://www.youtube.com)** | Tak | **Tak** | Serwis działa natywnie i bez przeszkód pozwala na odtwarzanie materiałów w 4K (oraz 8K) przy 60 kl./s. |
