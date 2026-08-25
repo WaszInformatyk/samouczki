@@ -6,7 +6,7 @@ Niniejszy poradnik opisuje wdrożenie serwera VPN **WireGuard** z nowoczesnym pa
 ---
 
 ## Wymagania wstępne
-* Serwer VPS (np. OVH) z systemem **Ubuntu 26.04 LTS**.
+* Serwer VPS z systemem **Ubuntu 26.04 LTS**.
 * Skonfigurowany firewall **UFW**.
 * Dostęp przez SSH zabezpieczony parą kluczy kryptograficznych na niestandardowym porcie (np. `2222`).
 
