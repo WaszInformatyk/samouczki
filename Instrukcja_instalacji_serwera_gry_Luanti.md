@@ -1,9 +1,3 @@
-Oto poprawiona, gotowa instrukcja instalacji "krok po kroku", przygotowana w formie przejrzystej ściągi, którą możesz udostępnić swoim widzom (np. w opisie filmu, na GitHubie lub w przypiętym komentarzu). 
-
-Uwzględnia ona napotkane problemy z uprawnieniami Dockera oraz specyfiką uprawnień samego kontenera Luanti.
-
----
-
 # Ściąga: Instalacja serwera Luanti (Minecraft-like) na Ubuntu 26.04
 
 Niniejszy poradnik pozwala na szybkie uruchomienie serwera gry Luanti z silnikiem **VoxeLibre** (bardzo dokładnym odpowiednikiem Minecrafta) przy użyciu technologii Docker.
