@@ -68,7 +68,7 @@ services:
       - ./mods:/var/lib/minetest/.minetest/mods
     ports:
       - "30000:30000/udp"
-    command: --gameid voxelibre --worldname swiat_kreatywny
+    command: --config /etc/minetest/minetest.conf --gameid voxelibre --worldname swiat_kreatywny
 ```
 Zapisz plik i wyjdź.
 
